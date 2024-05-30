@@ -9,3 +9,5 @@
 Часть 3 - Hibernate
 
 Часть 4 - Spring MVC
+
+Часть 5 - Spring MVC + Hibernate + AOP
