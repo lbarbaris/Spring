@@ -10,4 +10,6 @@
 
 Часть 4 - Spring MVC
 
+Часть 4.1 - Spring MVC и валидация данных
+
 Часть 5 - Spring MVC + Hibernate + AOP
