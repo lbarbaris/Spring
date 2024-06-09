@@ -15,3 +15,5 @@
 Часть 5 - Spring MVC + Hibernate + AOP
 
 Часть 6 - Spring REST
+
+Часть 7 - Spring SECURITY
