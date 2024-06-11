@@ -30,3 +30,5 @@
 Часть 8 - Spring BOOT
 
 Часть 9 - Spring DATA JPA
+
+Часть 10 - Spring DATA REST
