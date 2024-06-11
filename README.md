@@ -28,3 +28,5 @@
 Часть 7 - Spring SECURITY
 
 Часть 8 - Spring BOOT
+
+Часть 9 - Spring DATA JPA
